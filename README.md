@@ -23,5 +23,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-[Veja meu Linkedin](https://www.linkedin.com/in/willianpassos/)
+[Veja meu Linkedin](https://www.linkedin.com/in/willianpassos/)<br>
 Feito por Willian Passos ✌️  
