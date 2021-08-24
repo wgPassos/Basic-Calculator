@@ -2,7 +2,7 @@
 
 🔎 1️⃣✖️4️⃣➕5️⃣➖2️⃣   Exemplo de uma calculadora simples utilizando JavaScript
 
-➡️ [Acesse a página clicando aqui]() ⬅️
+👉 [Acesse a página clicando aqui]() 👈
 
  <div align="center" >
   <img src="./Readme-cell-gif.gif" alt="demo-mobile" height="425">
@@ -23,5 +23,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-[Veja meu Linkedin](https://www.linkedin.com/in/willianpassos/)
+🙋‍♂️ [Veja meu Linkedin](https://www.linkedin.com/in/willianpassos/) <br>
 Feito por Willian Passos ✌️  
