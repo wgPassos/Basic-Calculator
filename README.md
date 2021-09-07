@@ -5,7 +5,7 @@
 👉 [Acesse a página clicando aqui](https://wgpassos.github.io/Basic-Calculator/) 👈
 
  <div align="center" >
-  <img src="./Readme-cell-gif.gif" alt="demo-mobile" height="425">
+  <img src="/assets/Readme-calculator.gif" alt="demo" height="425">
 </div>
 
 ## 🚀 Tecnologias
