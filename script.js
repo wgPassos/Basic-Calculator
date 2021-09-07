@@ -8,9 +8,9 @@ function inputVazio() {
     if (n1.value === "" || n2.value === "")  {          
         alert("Enter a number in all fields."); 
     limparResultado();
-        if (resultado !== "") {
-            limparResultado();
-        }
+        // if (resultado !== "") {
+        //     limparResultado();
+        // }
     }
 }
 
