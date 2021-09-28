@@ -20,28 +20,38 @@ function limparResultado () {
 
 function somar() {
     inputVazio();
-    resultado.innerHTML = parseFloat(n1.value) + parseFloat(n2.value);
+    let resultadoSoma = parseFloat(n1.value) + parseFloat(n2.value);
+
+    resultado.innerHTML = resultadoSoma.toFixed(2);
     n1.value = "";
     n2.value = "";
 }
 
 function subtrair() {
     inputVazio();
-    resultado.innerHTML = parseFloat(n1.value) - parseFloat(n2.value);
+    let resultadoS = parseFloat(n1.value) - parseFloat(n2.value);
+    
+    resultado.innerHTML = resultadoS.toFixed(2);
     n1.value = "";
     n2.value = "";
+    
 }
 
 function multiplicar() {
     inputVazio();
-    resultado.innerHTML = parseFloat(n1.value) * parseFloat(n2.value);
+    let resultadoM = parseFloat(n1.value) * parseFloat(n2.value);
+
+    resultado.innerHTML = resultadoM.toFixed(2);
     n1.value = "";
     n2.value = "";
+    
 }
 
 function dividir() {
     inputVazio();
-    resultado.innerHTML = parseFloat(n1.value) / parseFloat(n2.value);
+    let resultadoD = parseFloat(n1.value) / parseFloat(n2.value);
+
+    resultado.innerHTML = resultadoD.toFixed(2);
     n1.value = "";
     n2.value = "";
 }
