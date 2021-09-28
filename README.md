@@ -20,7 +20,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
    - Input type: number;
    - button
 - ✔️ CSS
-
+    - Display: flex;
+    - Position: absolute;
+    - Box-shadow;
+    - Border-radius;
+    - Transition
+    - :hover;
+    - :focus.
 <br>
 
 🙋‍♂️ [Veja meu Linkedin](https://www.linkedin.com/in/willianpassos/) <br>
