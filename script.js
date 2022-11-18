@@ -49,7 +49,7 @@ function multiplicar() {
 
 function dividir() {
     inputVazio();
-    let resultadoD = parseFloat(n1.value) / parseFloat(n2.value);
+    let resultadoD = (parseFloat(n1.value) / parseFloat(n2.value)).toFixed(2);
 
     resultado.innerHTML = resultadoD.toFixed(2);
     n1.value = "";
